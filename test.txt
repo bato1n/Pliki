@@ -7,12 +7,12 @@ d
 e
 f
 g
-h
+h akuna 
 i
 j
 k
 l
-m
+m atata
 n
 o
 p
@@ -38,7 +38,7 @@ Potęgi liczby 2 <= 1 mln
    256
    512
   1024
-  2048
+  2048 TAKI CHUJ!
   4096
   8192
  16384
